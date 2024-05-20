@@ -101,7 +101,7 @@ marquee {
             <section>
                 <h2>Introduction</h2>
                 <p>This is the main page of the website. You will find various examples of HTML elements here.</p>
-                <img src="images/example.jpg" alt="Example Image">
+                <img src="[images/example.jpg](https://www.google.com/search?sca_esv=52e99386060f6961&sca_upv=1&sxsrf=ADLYWILnOpeAhAwvkt1Q-xoN656uAQlDGw:1716207302762&q=dog&uds=ADvngMgA50arV1Y7GXZBzvtiYNhKRlN8iZQZwQ0YGROk7DQHcWNfKmC0HeDe47Fsj5e9GTYu2uEAr8R28Kun3PW8SOS-DkSYdrJf9IAZk9dJKw7MLpzo5Y9XsS5SfyXuTb7oA_2_2RhSqVTEqM1lrP9MD4cQb38Peujx9u-JKppSmTTtAqSz7pztRnUpixJ7qPUxSAtDLnB2ejaq8Io76J7f8WcjLfx-9ACL8Etne5DWKM7zKvXeZtrVtnLf6nIB6Xte6LX9YSOkApLambiFTg7l2dSUvPX-uA&udm=2&prmd=ivnbz&sa=X&ved=2ahUKEwix6ZC1mpyGAxWo_7sIHUdkDRoQtKgLegQIDhAB&biw=1440&bih=731&dpr=2#vhid=V_rIzURDXXmHDM&vssid=mosaic)" alt="Example Image">
                 <marquee>This text is scrolling across the screen!</marquee>
             </section>
             <section>
